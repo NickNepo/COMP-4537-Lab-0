@@ -1,0 +1,21 @@
+body { font-family: sans-serif; margin: 20px; overflow: hidden; height: 100vh; width: 100vw; }
+        #ui-container { margin-bottom: 20px; }
+        .memory-button {
+            position: absolute;
+            width: 10em;
+            height: 5em;
+            font-size: 16px;
+            color: white;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            transition: top 0.5s, left 0.5s;
+        }
+        #message-display {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
