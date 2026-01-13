@@ -2,6 +2,7 @@ import { MESSAGES } from '../lang/messages/en/user.js';
 
 /**
  * Represents an individual Memory Button component.
+ * Code created with help from Gemini
  */
 class MemoryButton {
     /**
